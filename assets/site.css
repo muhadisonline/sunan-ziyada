@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap");
+
+:root{--ink:#1c1915;--green:#1c4536;--line:#e4dfd6;--bg:#f7f5f2;--card:#fff}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:"IBM Plex Sans Arabic",Amiri,serif}
+body{font-family:"IBM Plex Sans Arabic",Tahoma,sans-serif}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px}
+.bar{border-bottom:1px solid var(--line);background:#fff}
+.bar .wrap{display:flex;gap:12px;align-items:center;height:56px}
+.brand{color:var(--green);font-weight:700;text-decoration:none;font-size:1.15rem}
+.search{flex:1}
+.search input{width:100%;border:1px solid var(--line);border-radius:999px;padding:8px 14px;background:#faf9f6;font:inherit}
+h1{font-family:Amiri,serif;font-weight:700;line-height:1.4}
+.lead{color:#5c564c}
+.grid{display:grid;gap:12px}
+.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;text-decoration:none;color:inherit}
+.card b{display:block;font-size:1.25rem;font-family:Amiri,serif}
+.card span{color:#5c564c}
+.crumbs{color:#6b645a;font-size:.92rem}
+.crumbs a{color:var(--green)}
+.meta{color:#6b645a}
+.bab{margin-top:22px}
+.entry{display:flex;gap:10px;padding:8px 0;border-bottom:1px solid var(--line);text-decoration:none;color:inherit}
+.n{color:var(--green);min-width:3rem}
+.matn{font-family:Amiri,serif;font-size:1.45rem;line-height:2.15}
+.en{margin-top:18px;padding-top:12px;border-top:1px solid var(--line);color:#3d3832}
+.en small{color:#6b645a}
+.pager{display:flex;justify-content:space-between;gap:12px;margin:18px 0}
+.pager a{color:var(--green);text-decoration:none}
+.foot{padding:28px 0 40px;color:#6b645a;font-size:.92rem}
+.foot nav{display:flex;flex-wrap:wrap;gap:12px}
+.foot a{color:var(--green)}
+.note{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.hits a{display:block;padding:10px 0;border-bottom:1px solid var(--line);text-decoration:none;color:inherit}
+.hit-no{color:var(--green);display:block}
