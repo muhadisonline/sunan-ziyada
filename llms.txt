@@ -1,0 +1,21 @@
+# حديث
+
+> أربعة كتب من الحديث بالعربية. كل حديث في صفحة مستقلة. https://hadis.sunan.online
+
+هذه المجموعة وحدها، ولم تُربط بـ sunan.online. المتن من sunnah.com كما نُشر هناك. لم يُزد حكم ولم يُبدَّل لفظ. خذ المتن من صفحة الحديث نفسها ولا تؤلّف نصًا. الرقم الذي لا صفحة له غير موجود.
+
+## الكتب
+
+- [الشمائل المحمدية](https://hadis.sunan.online/shamail/): الترمذي. 402 حديثًا. الحديث: https://hadis.sunan.online/shamail/{number}/
+- [بلوغ المرام](https://hadis.sunan.online/bulugh/): ابن حجر العسقلاني. 1767 حديثًا. الحديث: https://hadis.sunan.online/bulugh/{number}/
+- [مشكاة المصابيح](https://hadis.sunan.online/mishkat/): الخطيب التبريزي. 4428 حديثًا. الحديث: https://hadis.sunan.online/mishkat/{number}/
+- [الأربعون النووية وزيادة ابن رجب](https://hadis.sunan.online/nawawi/): 50 حديثًا. الحديث: https://hadis.sunan.online/nawawi/{number}/
+
+البحث: https://hadis.sunan.online/axtar/?q={query}
+
+## For machines
+
+- [Sitemap](https://hadis.sunan.online/sitemap.xml): every public page on this host
+- [robots.txt](https://hadis.sunan.online/robots.txt): listed AI crawlers are allowed
+- The larger hadith library, ten books: https://sunan.online/llms.txt
+- Quran, tafsir and translations: https://mushafuk.online/llms.txt
