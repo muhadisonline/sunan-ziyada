@@ -19,3 +19,6 @@
 - [robots.txt](https://hadis.sunan.online/robots.txt): listed AI crawlers are allowed
 - The larger hadith library, ten books: https://sunan.online/llms.txt
 - Quran, tafsir and translations: https://mushafuk.online/llms.txt
+
+- [صحيح البخاري](https://buxari.sunan.online/llms.txt)
+- [الرواة](https://ruwat.sunan.online/llms.txt)
